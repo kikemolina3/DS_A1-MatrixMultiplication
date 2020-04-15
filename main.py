@@ -6,9 +6,7 @@ from sys import argv
 from cos_backend import COSBackend
 
 dic = { 
-        'endpoint': 'https://s3.eu-gb.cloud-object-storage.appdomain.cloud',
-        'access_key': 'a967f6d7cde54815b7c240b14e1f2ee5',
-        'secret_key': 'e2900e1d4b0c0e18a2f8b859ce1750ded442811fe9a313da'
+	# Add here definitions to access COS {endpoint, access_key, secret,key}
     }
 
 def push_matrix(m, n, l, w):
