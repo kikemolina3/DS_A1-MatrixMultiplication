@@ -6,7 +6,7 @@
 ## Explicación de ejecución del algoritmo
  El programa invocando en línea de comandos se encarga de generar dos matrices de valores enteros aleatorios entre -5 y 5 y de devolver su producto:
  
- > ./main.py m n l w
+ `$ ./main.py m n l w`
  
  ,donde:
  
