@@ -6,7 +6,7 @@ from sys import argv
 from cos_backend import COSBackend
 
 dic = { 
-	# Add here definitions to access COS {endpoint, access_key, secret,key}
+	    # Add here definitions to access COS {endpoint, access_key, secret,key}
     }
 
 def push_matrix(m, n, l, w):
